@@ -1,2 +1,2 @@
 # BreastCancer
-Sci-kit learn machine learning approach to predict breast cancer
+Sci-kit learn machine learning approach to classify breast cancer
